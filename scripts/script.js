@@ -60,7 +60,7 @@ function executeCommand(command) {
         if (progress === 6) {
             output.textContent = "[OUTPUT] marxit.db: Successfuly inserted 'n' and 'u' into table 'trixam'.";
             final_output.textContent = "[OUTPUT] Successfuly hacked the matrix, inserted into 'matrix.py' v = dQw4w9WgXcQ&ab";
-            console.log("Officialy 114 105 99 107 114 111 108 108 101 100 the entire world lol.");
+            console.log("Officialy 0000000000 the entire world lol.");
         } else {
             output.textContent = "[ERROR] Command not found.";
             progress = 0;
